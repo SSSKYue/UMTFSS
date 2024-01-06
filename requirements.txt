@@ -1,0 +1,8 @@
+cython
+tensorboardX
+PyYaml
+imgviz==1.5.0
+scikit-image==0.19.2
+opencv-python
+tqdm
+six
